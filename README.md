@@ -11,7 +11,6 @@ This project uses **localStorage** for persistence and **Toastify.js** for clean
 * 📝 Add custom URLs manually
 * 💾 Automatically store links in **localStorage**
 * 🗑️ Double-click **Delete All** to clear saved URLs
-* 💡 Minimalist and mobile-friendly UI
 
 ---
 
