@@ -1,7 +1,7 @@
 # 🔗 URL Saver Chrome Extension
 
 A simple and lightweight Chrome extension that lets you **save, view, and manage your favorite links or tabs** with just one click.
-This project uses **localStorage** for persistence and **Toastify.js** for clean notification messages.
+This project uses **localStorage** for persistence.
 
 ---
 
